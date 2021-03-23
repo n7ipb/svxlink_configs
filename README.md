@@ -2,6 +2,8 @@
 
 ## Sample svxlink configuration files to use as templates.
 
+These all will need to be modified to work for your particular circumstance
+
 ### Just copy the desired file to your ../etc/svxlink/svxlink.conf file.
 
 - svxlink-hs.conf	A simplex system to be used as either a local Hot Spot connected
@@ -13,4 +15,8 @@
 
 - svxlink-repeater.conf	A typical pnw220.net repeater configuration
 
-More to follow 	
+- svxlink-rflink.conf	A guide to providing an RF link to another site along with the repeater and
+			a link to a reflector.
+
+
+### More to follow 	
